@@ -56,3 +56,9 @@ Similar applications
 --------------------
 
 -   Facebook and LinkedIn
+
+Feedback
+---------
+
+-   [Delve UserVoice](https://office365.uservoice.com/forums/273487-delve)
+    \[UserVoice\]
